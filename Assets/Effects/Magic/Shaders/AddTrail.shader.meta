@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1bc9b14ff230e2242b248daff64546f6
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 133012
+  packageName: AOE Magic spells Vol.1
+  packageVersion: 2.3.2
+  assetPath: Assets/Hovl Studio/HSFiles/Shaders/AddTrail.shader
+  uploadId: 730591
