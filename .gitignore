@@ -115,7 +115,6 @@ InitTestScene*.unity*
 # Paid Assets
 /[Aa]ssets/[Pp]lugins/[Ff]ullscreen.meta
 /[Aa]ssets/[Pp]lugins/[Ff]ullscreen/*
-/[Aa]ssets/[Pp]lugins/[Ee]ditor.meta
 /[Aa]ssets/[Pp]lugins/[Ee]ditor/ScriptInspector3.meta
 /[Aa]ssets/[Pp]lugins/[Ee]ditor/ScriptInspector3/*
 /[Aa]ssets/[Pp]lugins/[Ss]irenix.meta
